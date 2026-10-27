@@ -3,6 +3,7 @@
   "buildDate": "2026-10-21",
   "name": "Lantify POS",
   "releaseName": "Lantify POS Official Release v2.0.0",
+  "updateCheckUrl": "https://raw.githubusercontent.com/LuisfNarvaez01/lantify-releases/main/version.json",
   "changelog": "Lantify POS v2.0.0 — Histórico de Comandas por Rondas con semáforo en vivo, Anulación Parcial protegida con Clave de Administrador, y Módulo Oficial DIAN.",
   "features": [
     "Histórico de comandas por rondas automáticas con hora exacta (HH:mm) y temporizador de espera en vivo.",
