@@ -1,0 +1,17 @@
+{
+  "version": "2.0.0",
+  "buildDate": "2026-10-21",
+  "name": "Lantify POS",
+  "releaseName": "Lantify POS Official Release v2.0.0",
+  "changelog": "Lantify POS v2.0.0 — Histórico de Comandas por Rondas con semáforo en vivo, Anulación Parcial protegida con Clave de Administrador, y Módulo Oficial DIAN.",
+  "features": [
+    "Histórico de comandas por rondas automáticas con hora exacta (HH:mm) y temporizador de espera en vivo.",
+    "Semáforo de cocina (verde <15m, amarillo 15-30m, rojo pulsante >30m) y número de ronda en tickets térmicos.",
+    "Cancelación parcial y total de productos comandados protegida estrictamente por clave de Administrador.",
+    "Catálogo de motivos predefinidos, comentarios opcionales y destino inteligente de inventario (Merma vs Restock).",
+    "Módulo de facturación electrónica DIAN con generación oficial de CUFE (SHA-384) y código QR reglamentario.",
+    "Integración y soporte preparado para Factus Cloud API (configurable en hibernación a costo cero).",
+    "Plano interactivo de mesas con editor visual, split-screen de mostrador y diseño ergonómico de alta velocidad.",
+    "Control integral de inventario con descuento automático en ventas y reversión en cancelaciones."
+  ]
+}
