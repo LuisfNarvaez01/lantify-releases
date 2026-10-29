@@ -1,17 +1,19 @@
 {
-  "version": "2.3.1",
+  "version": "2.3.2",
   "buildDate": "2026-10-29",
   "name": "Lantify POS",
-  "releaseName": "Lantify POS v2.3.1",
+  "releaseName": "Lantify POS v2.3.2",
   "updateCheckUrl": "https://raw.githubusercontent.com/LuisfNarvaez01/lantify-releases/main/version.json",
-  "changelog": "Lantify POS v2.3.1: Meseros pueden comandar desde tablets y celulares · Funciones de cajero y mesero configurables en Usuarios y roles · Conectar tablets con un código QR, sin configurar el router · Mi página: vuelven Únete y Juega y gana",
+  "changelog": "Lantify POS v2.3.2: Guía de configuración paso a paso según tu plan · Menú de administración más ordenado · Avisos de pedidos, reservas, clientes nuevos, premios y cumpleaños · Pre-cuenta y recibo por WhatsApp como imagen · Letra de la factura más oscura (configurable) · Condiciones visibles en la tarjeta de sellos",
   "features": [
-    "Meseros pueden comandar desde tablets y celulares",
-    "Funciones de cajero y mesero configurables en Usuarios y roles",
-    "Conectar tablets con un código QR, sin configurar el router",
-    "Mi página: vuelven Únete y Juega y gana"
+    "Guía de configuración paso a paso según tu plan",
+    "Menú de administración más ordenado",
+    "Avisos de pedidos, reservas, clientes nuevos, premios y cumpleaños",
+    "Pre-cuenta y recibo por WhatsApp como imagen",
+    "Letra de la factura más oscura (configurable)",
+    "Condiciones visibles en la tarjeta de sellos"
   ],
   "fixes": [],
   "package": "update-package-latest.zip",
-  "sha256": "a675baf534c75af593aae834475c4404dff8469eb38f74c872cc1d609f30493a"
+  "sha256": "da99383e442b8b71f40492762d3590436337bdd4405669ce427e5e74cb501659"
 }
