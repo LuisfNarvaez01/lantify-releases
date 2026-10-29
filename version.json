@@ -1,19 +1,14 @@
 {
-  "version": "2.2.0",
+  "version": "2.3.0",
   "buildDate": "2026-10-29",
   "name": "Lantify POS",
-  "releaseName": "Lantify POS v2.2.0",
+  "releaseName": "Lantify POS v2.3.0",
   "updateCheckUrl": "https://raw.githubusercontent.com/LuisfNarvaez01/lantify-releases/main/version.json",
-  "changelog": "Lantify POS v2.2.0: Sellos en vivo: la venta a nombre del cliente suma directo a su tarjeta y avisa en la caja · Sin internet los sellos quedan en cola y se envían solos · La ficha del cliente muestra su tarjeta y da el enlace para recuperarla · Pestaña Delivery con Pedidos web, Mi página, WhatsApp y Rappi · Funciones fuera del plan como promoción; WhatsApp y Rappi próximamente · Facturación electrónica sin datos ni aprobaciones de prueba",
+  "changelog": "Lantify POS v2.3.0: Fotos de productos con carátula y fotos en lote, editor de variantes, importar CSV mejorado, logo del negocio en tickets e informes, impresión directa y silenciosa a impresoras térmicas, e informes en PDF y Excel (ventas, caja mensual, cada arqueo, gastos y movimientos).",
   "features": [
-    "Sellos en vivo: la venta a nombre del cliente suma directo a su tarjeta y avisa en la caja",
-    "Sin internet los sellos quedan en cola y se envían solos",
-    "La ficha del cliente muestra su tarjeta y da el enlace para recuperarla",
-    "Pestaña Delivery con Pedidos web, Mi página, WhatsApp y Rappi",
-    "Funciones fuera del plan como promoción; WhatsApp y Rappi próximamente",
-    "Facturación electrónica sin datos ni aprobaciones de prueba"
+    "Fotos de productos con carátula y fotos en lote, editor de variantes, importar CSV mejorado, logo del negocio en tickets e informes, impresión directa y silenciosa a impresoras térmicas, e informes en PDF y Excel (ventas, caja mensual, cada arqueo, gastos y movimientos)."
   ],
   "fixes": [],
   "package": "update-package-latest.zip",
-  "sha256": "72087e0a882c8ab8eaf8be22f59b9994547a3fb59d45747d20e19e7cb608f29b"
+  "sha256": "ee39150c66be70cfe1cf07eaf2e819f6be3a891954ee5d981412591459dd591c"
 }
