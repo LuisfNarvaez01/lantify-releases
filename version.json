@@ -1,17 +1,19 @@
 {
-  "version": "2.1.0",
+  "version": "2.2.0",
   "buildDate": "2026-10-29",
   "name": "Lantify POS",
-  "releaseName": "Lantify POS v2.1.0",
+  "releaseName": "Lantify POS v2.2.0",
   "updateCheckUrl": "https://raw.githubusercontent.com/LuisfNarvaez01/lantify-releases/main/version.json",
-  "changelog": "Lantify POS v2.1.0: Conectar con Lantify Cloud desde el ingreso en equipos que trabajaban en local · Actualizador que verifica el paquete y reinicia el sistema solo · Plantillas completas para Mi página: Obrador, Pulso, Mantel, Brasa y Calle · Calificar en Google y redes sociales con su logo en la página del negocio",
+  "changelog": "Lantify POS v2.2.0: Sellos en vivo: la venta a nombre del cliente suma directo a su tarjeta y avisa en la caja · Sin internet los sellos quedan en cola y se envían solos · La ficha del cliente muestra su tarjeta y da el enlace para recuperarla · Pestaña Delivery con Pedidos web, Mi página, WhatsApp y Rappi · Funciones fuera del plan como promoción; WhatsApp y Rappi próximamente · Facturación electrónica sin datos ni aprobaciones de prueba",
   "features": [
-    "Conectar con Lantify Cloud desde el ingreso en equipos que trabajaban en local",
-    "Actualizador que verifica el paquete y reinicia el sistema solo",
-    "Plantillas completas para Mi página: Obrador, Pulso, Mantel, Brasa y Calle",
-    "Calificar en Google y redes sociales con su logo en la página del negocio"
+    "Sellos en vivo: la venta a nombre del cliente suma directo a su tarjeta y avisa en la caja",
+    "Sin internet los sellos quedan en cola y se envían solos",
+    "La ficha del cliente muestra su tarjeta y da el enlace para recuperarla",
+    "Pestaña Delivery con Pedidos web, Mi página, WhatsApp y Rappi",
+    "Funciones fuera del plan como promoción; WhatsApp y Rappi próximamente",
+    "Facturación electrónica sin datos ni aprobaciones de prueba"
   ],
   "fixes": [],
   "package": "update-package-latest.zip",
-  "sha256": "9a9deabc4023edbf3d465a89a18c4b6b745b9d6959ecb16fc2296e8464d9d80d"
+  "sha256": "72087e0a882c8ab8eaf8be22f59b9994547a3fb59d45747d20e19e7cb608f29b"
 }
