@@ -1,14 +1,17 @@
 {
-  "version": "2.3.0",
+  "version": "2.3.1",
   "buildDate": "2026-10-29",
   "name": "Lantify POS",
-  "releaseName": "Lantify POS v2.3.0",
+  "releaseName": "Lantify POS v2.3.1",
   "updateCheckUrl": "https://raw.githubusercontent.com/LuisfNarvaez01/lantify-releases/main/version.json",
-  "changelog": "Lantify POS v2.3.0: Fotos de productos con carátula y fotos en lote, editor de variantes, importar CSV mejorado, logo del negocio en tickets e informes, impresión directa y silenciosa a impresoras térmicas, e informes en PDF y Excel (ventas, caja mensual, cada arqueo, gastos y movimientos).",
+  "changelog": "Lantify POS v2.3.1: Meseros pueden comandar desde tablets y celulares · Funciones de cajero y mesero configurables en Usuarios y roles · Conectar tablets con un código QR, sin configurar el router · Mi página: vuelven Únete y Juega y gana",
   "features": [
-    "Fotos de productos con carátula y fotos en lote, editor de variantes, importar CSV mejorado, logo del negocio en tickets e informes, impresión directa y silenciosa a impresoras térmicas, e informes en PDF y Excel (ventas, caja mensual, cada arqueo, gastos y movimientos)."
+    "Meseros pueden comandar desde tablets y celulares",
+    "Funciones de cajero y mesero configurables en Usuarios y roles",
+    "Conectar tablets con un código QR, sin configurar el router",
+    "Mi página: vuelven Únete y Juega y gana"
   ],
   "fixes": [],
   "package": "update-package-latest.zip",
-  "sha256": "ee39150c66be70cfe1cf07eaf2e819f6be3a891954ee5d981412591459dd591c"
+  "sha256": "a675baf534c75af593aae834475c4404dff8469eb38f74c872cc1d609f30493a"
 }
