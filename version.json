@@ -1,19 +1,17 @@
 {
-  "version": "2.3.2",
-  "buildDate": "2026-10-29",
+  "version": "2.3.3",
+  "buildDate": "2026-10-30",
   "name": "Lantify POS",
-  "releaseName": "Lantify POS v2.3.2",
+  "releaseName": "Lantify POS v2.3.3",
   "updateCheckUrl": "https://raw.githubusercontent.com/LuisfNarvaez01/lantify-releases/main/version.json",
-  "changelog": "Lantify POS v2.3.2: Guía de configuración paso a paso según tu plan · Menú de administración más ordenado · Avisos de pedidos, reservas, clientes nuevos, premios y cumpleaños · Pre-cuenta y recibo por WhatsApp como imagen · Letra de la factura más oscura (configurable) · Condiciones visibles en la tarjeta de sellos",
+  "changelog": "Lantify POS v2.3.3: Recomienda Lantify y gana 2 meses gratis · Nueva sección Acerca de Lantify con versión y actualizaciones · Fotos con IA para los productos sin foto en tu página web · Plantillas de la página con nombres genéricos",
   "features": [
-    "Guía de configuración paso a paso según tu plan",
-    "Menú de administración más ordenado",
-    "Avisos de pedidos, reservas, clientes nuevos, premios y cumpleaños",
-    "Pre-cuenta y recibo por WhatsApp como imagen",
-    "Letra de la factura más oscura (configurable)",
-    "Condiciones visibles en la tarjeta de sellos"
+    "Recomienda Lantify y gana 2 meses gratis",
+    "Nueva sección Acerca de Lantify con versión y actualizaciones",
+    "Fotos con IA para los productos sin foto en tu página web",
+    "Plantillas de la página con nombres genéricos"
   ],
   "fixes": [],
   "package": "update-package-latest.zip",
-  "sha256": "da99383e442b8b71f40492762d3590436337bdd4405669ce427e5e74cb501659"
+  "sha256": "c6cb6d8edca7218dd619a68ed60066da770064ac0c892d709d6537b1e8e00f82"
 }
