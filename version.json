@@ -1,17 +1,12 @@
 {
-  "version": "2.3.3",
-  "buildDate": "2026-10-30",
+  "version": "3.0.0",
+  "buildDate": "2026-11-12",
   "name": "Lantify POS",
-  "releaseName": "Lantify POS v2.3.3",
+  "releaseName": "Lantify POS v3.0.0",
   "updateCheckUrl": "https://raw.githubusercontent.com/LuisfNarvaez01/lantify-releases/main/version.json",
-  "changelog": "Lantify POS v2.3.3: Recomienda Lantify y gana 2 meses gratis · Nueva sección Acerca de Lantify con versión y actualizaciones · Fotos con IA para los productos sin foto en tu página web · Plantillas de la página con nombres genéricos",
-  "features": [
-    "Recomienda Lantify y gana 2 meses gratis",
-    "Nueva sección Acerca de Lantify con versión y actualizaciones",
-    "Fotos con IA para los productos sin foto en tu página web",
-    "Plantillas de la página con nombres genéricos"
-  ],
+  "changelog": "Lantify POS v3.0.0",
+  "features": [],
   "fixes": [],
   "package": "update-package-latest.zip",
-  "sha256": "c6cb6d8edca7218dd619a68ed60066da770064ac0c892d709d6537b1e8e00f82"
+  "sha256": "329e749fc16828aa4e21642d3b29956f2473b95ff24ce0181297e571d5c5f1f4"
 }
