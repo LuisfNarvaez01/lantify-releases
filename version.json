@@ -1,12 +1,16 @@
 {
-  "version": "3.0.0",
-  "buildDate": "2026-11-12",
+  "version": "3.0.1",
+  "buildDate": "2026-11-13",
   "name": "Lantify POS",
-  "releaseName": "Lantify POS v3.0.0",
+  "releaseName": "Lantify POS v3.0.1",
   "updateCheckUrl": "https://raw.githubusercontent.com/LuisfNarvaez01/lantify-releases/main/version.json",
-  "changelog": "Lantify POS v3.0.0",
-  "features": [],
+  "changelog": "Lantify POS v3.0.1: Varios pagos que se suman, aunque sean del mismo medio · Cerrar una mesa abierta sin pedido, sin motivo y sin quedar por limpiar · Logo animado al abrir Lantify",
+  "features": [
+    "Varios pagos que se suman, aunque sean del mismo medio",
+    "Cerrar una mesa abierta sin pedido, sin motivo y sin quedar por limpiar",
+    "Logo animado al abrir Lantify"
+  ],
   "fixes": [],
   "package": "update-package-latest.zip",
-  "sha256": "329e749fc16828aa4e21642d3b29956f2473b95ff24ce0181297e571d5c5f1f4"
+  "sha256": "69b6bb0fbdd2af3cbd30f56e6210d2d25d8b7c9ac752df9d5ed1f3d46e010b3b"
 }
