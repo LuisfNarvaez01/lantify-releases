@@ -1,19 +1,21 @@
 {
-  "version": "3.3.0",
+  "version": "3.4.0",
   "buildDate": "2026-11-25",
   "name": "Lantify POS",
-  "releaseName": "Lantify POS v3.3.0",
+  "releaseName": "Lantify POS v3.4.0",
   "updateCheckUrl": "https://raw.githubusercontent.com/LuisfNarvaez01/lantify-releases/main/version.json",
-  "changelog": "Lantify POS v3.3.0: Un solo QR para los celulares y la app recuerda los locales vinculados · La app guarda usuario y contrasena y sigue conectada con la pantalla apagada · Aprobar pedidos de mesa desde la caja e imprimir el QR de cada mesa · Datos del negocio en pestanas y guia de configuracion con las funciones nuevas · Barra de la ventana oscura como el nav · App de Android para descargar en lantifypos.com",
+  "changelog": "Lantify POS v3.4.0: Pantallas claras (u oscuras) y varias en el mismo computador · La cocina ya no muestra comandas viejas · Kiosco más rápido: lo más pedido y agregar con un toque · Inventario: cuánto alcanza, calculadora y recetas en lote con IA · Horario de la semana por casillas · Propinas en un solo lugar: Ventas → Propinas · Facturas escritas a mano · Autopilot avisa ingredientes, personal y compras",
   "features": [
-    "Un solo QR para los celulares y la app recuerda los locales vinculados",
-    "La app guarda usuario y contrasena y sigue conectada con la pantalla apagada",
-    "Aprobar pedidos de mesa desde la caja e imprimir el QR de cada mesa",
-    "Datos del negocio en pestanas y guia de configuracion con las funciones nuevas",
-    "Barra de la ventana oscura como el nav",
-    "App de Android para descargar en lantifypos.com"
+    "Pantallas claras (u oscuras) y varias en el mismo computador",
+    "La cocina ya no muestra comandas viejas",
+    "Kiosco más rápido: lo más pedido y agregar con un toque",
+    "Inventario: cuánto alcanza, calculadora y recetas en lote con IA",
+    "Horario de la semana por casillas",
+    "Propinas en un solo lugar: Ventas → Propinas",
+    "Facturas escritas a mano",
+    "Autopilot avisa ingredientes, personal y compras"
   ],
   "fixes": [],
   "package": "update-package-latest.zip",
-  "sha256": "76732705e8365c4438018c75363da33e3ea49f1324ec1b7a986be1780ff3e36c"
+  "sha256": "180fbc20a1f43b38d5df7d275e7cafec252a08e1f849c15a238a1d022c8df0a1"
 }
