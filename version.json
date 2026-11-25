@@ -1,16 +1,21 @@
 {
-  "version": "3.0.1",
-  "buildDate": "2026-11-13",
+  "version": "3.2.0",
+  "buildDate": "2026-11-25",
   "name": "Lantify POS",
-  "releaseName": "Lantify POS v3.0.1",
+  "releaseName": "Lantify POS v3.2.0",
   "updateCheckUrl": "https://raw.githubusercontent.com/LuisfNarvaez01/lantify-releases/main/version.json",
-  "changelog": "Lantify POS v3.0.1: Varios pagos que se suman, aunque sean del mismo medio · Cerrar una mesa abierta sin pedido, sin motivo y sin quedar por limpiar · Logo animado al abrir Lantify",
+  "changelog": "Lantify POS v3.2.0: Meseros por internet cuando se alejan del wifi y app Android · Tirilla de cierre impresa tipo datafono y numero corto de venta (C1-000123) · Happy hour, encuesta por sellos y resena de Google en el recibo · Pantalla del cliente, asistencia con PIN y kiosco · Pedido desde la mesa con QR y puerta con aforo · La app encuentra la caja sola y confirma transferencias con el aviso del banco · Exportacion para Siigo y Alegra, directorio y varias sedes · Aviso en Google Wallet al pasar cerca del local",
   "features": [
-    "Varios pagos que se suman, aunque sean del mismo medio",
-    "Cerrar una mesa abierta sin pedido, sin motivo y sin quedar por limpiar",
-    "Logo animado al abrir Lantify"
+    "Meseros por internet cuando se alejan del wifi y app Android",
+    "Tirilla de cierre impresa tipo datafono y numero corto de venta (C1-000123)",
+    "Happy hour, encuesta por sellos y resena de Google en el recibo",
+    "Pantalla del cliente, asistencia con PIN y kiosco",
+    "Pedido desde la mesa con QR y puerta con aforo",
+    "La app encuentra la caja sola y confirma transferencias con el aviso del banco",
+    "Exportacion para Siigo y Alegra, directorio y varias sedes",
+    "Aviso en Google Wallet al pasar cerca del local"
   ],
   "fixes": [],
   "package": "update-package-latest.zip",
-  "sha256": "69b6bb0fbdd2af3cbd30f56e6210d2d25d8b7c9ac752df9d5ed1f3d46e010b3b"
+  "sha256": "b30c51f1bddafebc408441677b6687ca7e3b394bd9b2fc1018dfad56ec60b69c"
 }
