@@ -1,21 +1,19 @@
 {
-  "version": "3.2.0",
+  "version": "3.3.0",
   "buildDate": "2026-11-25",
   "name": "Lantify POS",
-  "releaseName": "Lantify POS v3.2.0",
+  "releaseName": "Lantify POS v3.3.0",
   "updateCheckUrl": "https://raw.githubusercontent.com/LuisfNarvaez01/lantify-releases/main/version.json",
-  "changelog": "Lantify POS v3.2.0: Meseros por internet cuando se alejan del wifi y app Android · Tirilla de cierre impresa tipo datafono y numero corto de venta (C1-000123) · Happy hour, encuesta por sellos y resena de Google en el recibo · Pantalla del cliente, asistencia con PIN y kiosco · Pedido desde la mesa con QR y puerta con aforo · La app encuentra la caja sola y confirma transferencias con el aviso del banco · Exportacion para Siigo y Alegra, directorio y varias sedes · Aviso en Google Wallet al pasar cerca del local",
+  "changelog": "Lantify POS v3.3.0: Un solo QR para los celulares y la app recuerda los locales vinculados · La app guarda usuario y contrasena y sigue conectada con la pantalla apagada · Aprobar pedidos de mesa desde la caja e imprimir el QR de cada mesa · Datos del negocio en pestanas y guia de configuracion con las funciones nuevas · Barra de la ventana oscura como el nav · App de Android para descargar en lantifypos.com",
   "features": [
-    "Meseros por internet cuando se alejan del wifi y app Android",
-    "Tirilla de cierre impresa tipo datafono y numero corto de venta (C1-000123)",
-    "Happy hour, encuesta por sellos y resena de Google en el recibo",
-    "Pantalla del cliente, asistencia con PIN y kiosco",
-    "Pedido desde la mesa con QR y puerta con aforo",
-    "La app encuentra la caja sola y confirma transferencias con el aviso del banco",
-    "Exportacion para Siigo y Alegra, directorio y varias sedes",
-    "Aviso en Google Wallet al pasar cerca del local"
+    "Un solo QR para los celulares y la app recuerda los locales vinculados",
+    "La app guarda usuario y contrasena y sigue conectada con la pantalla apagada",
+    "Aprobar pedidos de mesa desde la caja e imprimir el QR de cada mesa",
+    "Datos del negocio en pestanas y guia de configuracion con las funciones nuevas",
+    "Barra de la ventana oscura como el nav",
+    "App de Android para descargar en lantifypos.com"
   ],
   "fixes": [],
   "package": "update-package-latest.zip",
-  "sha256": "b30c51f1bddafebc408441677b6687ca7e3b394bd9b2fc1018dfad56ec60b69c"
+  "sha256": "76732705e8365c4438018c75363da33e3ea49f1324ec1b7a986be1780ff3e36c"
 }
