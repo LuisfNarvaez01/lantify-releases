@@ -1,16 +1,16 @@
 {
-  "version": "3.5.0",
+  "version": "3.6.0",
   "buildDate": "2026-11-26",
   "name": "Lantify POS",
-  "releaseName": "Lantify POS v3.5.0",
+  "releaseName": "Lantify POS v3.6.0",
   "updateCheckUrl": "https://raw.githubusercontent.com/LuisfNarvaez01/lantify-releases/main/version.json",
-  "changelog": "Lantify POS v3.5.0: Proyecta · música: los clientes piden canciones desde el QR de la mesa y el DJ las aprueba · Vincular Proyecta y chatear con el DJ desde Administración · Botón Pedir canciones en la página del negocio",
+  "changelog": "Lantify POS v3.6.0: Un solo QR por mesa: pedir de la carta y canciones al DJ · Descargar Proyecta desde el programa · Cambio de tema claro u oscuro con una onda animada",
   "features": [
-    "Proyecta · música: los clientes piden canciones desde el QR de la mesa y el DJ las aprueba",
-    "Vincular Proyecta y chatear con el DJ desde Administración",
-    "Botón Pedir canciones en la página del negocio"
+    "Un solo QR por mesa: pedir de la carta y canciones al DJ",
+    "Descargar Proyecta desde el programa",
+    "Cambio de tema claro u oscuro con una onda animada"
   ],
   "fixes": [],
   "package": "update-package-latest.zip",
-  "sha256": "0f1b800d1880e31dc77e6d1222ec07e9dab3ddd2ed9c928fc5a75919b6a02675"
+  "sha256": "dc8e28e181ffe0c5f198648303255e02c08114e92ddc58b6d8458ae8c5c8d25d"
 }
