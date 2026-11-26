@@ -1,21 +1,16 @@
 {
-  "version": "3.4.0",
-  "buildDate": "2026-11-25",
+  "version": "3.5.0",
+  "buildDate": "2026-11-26",
   "name": "Lantify POS",
-  "releaseName": "Lantify POS v3.4.0",
+  "releaseName": "Lantify POS v3.5.0",
   "updateCheckUrl": "https://raw.githubusercontent.com/LuisfNarvaez01/lantify-releases/main/version.json",
-  "changelog": "Lantify POS v3.4.0: Pantallas claras (u oscuras) y varias en el mismo computador · La cocina ya no muestra comandas viejas · Kiosco más rápido: lo más pedido y agregar con un toque · Inventario: cuánto alcanza, calculadora y recetas en lote con IA · Horario de la semana por casillas · Propinas en un solo lugar: Ventas → Propinas · Facturas escritas a mano · Autopilot avisa ingredientes, personal y compras",
+  "changelog": "Lantify POS v3.5.0: Proyecta · música: los clientes piden canciones desde el QR de la mesa y el DJ las aprueba · Vincular Proyecta y chatear con el DJ desde Administración · Botón Pedir canciones en la página del negocio",
   "features": [
-    "Pantallas claras (u oscuras) y varias en el mismo computador",
-    "La cocina ya no muestra comandas viejas",
-    "Kiosco más rápido: lo más pedido y agregar con un toque",
-    "Inventario: cuánto alcanza, calculadora y recetas en lote con IA",
-    "Horario de la semana por casillas",
-    "Propinas en un solo lugar: Ventas → Propinas",
-    "Facturas escritas a mano",
-    "Autopilot avisa ingredientes, personal y compras"
+    "Proyecta · música: los clientes piden canciones desde el QR de la mesa y el DJ las aprueba",
+    "Vincular Proyecta y chatear con el DJ desde Administración",
+    "Botón Pedir canciones en la página del negocio"
   ],
   "fixes": [],
   "package": "update-package-latest.zip",
-  "sha256": "180fbc20a1f43b38d5df7d275e7cafec252a08e1f849c15a238a1d022c8df0a1"
+  "sha256": "0f1b800d1880e31dc77e6d1222ec07e9dab3ddd2ed9c928fc5a75919b6a02675"
 }
